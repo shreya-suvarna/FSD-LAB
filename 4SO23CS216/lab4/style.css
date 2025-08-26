@@ -1,0 +1,9 @@
+.calculator{
+    border : 2px solid maroon;
+    width: 250px;
+    height: 250px;
+    padding: 20px;
+}
+.ch{
+    margin-bottom: 20px;
+}
